@@ -1,1 +1,2 @@
-# redesigned-chat
+# redesigned-chat 
+Web-based chat system
